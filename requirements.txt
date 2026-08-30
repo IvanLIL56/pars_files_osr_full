@@ -1,0 +1,35 @@
+# Core dependencies
+requests>=2.31.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Database
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+psycopg2-binary>=2.9.0
+
+# Authentication & Security
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Document Processing
+PyMuPDF>=1.23.0  # fitz
+python-docx>=1.0.0
+antiword-python>=0.1.0
+chardet>=5.2.0
+
+# OCR
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# Archives
+rarfile>=4.2
+py7zr>=0.20.0
+
+# CLI
+click>=8.1.0
+tqdm>=4.66.0
+
+# Utilities
+python-dotenv>=1.0.0
